@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Features include Data Fetching, Clean UI, Search Functionality,
+Features include Data Fetching with Axios library, Clean UI, Search Functionality,
 Responsive Design, Debounced Search Output, Page pagination, Aria labels
 
 
