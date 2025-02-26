@@ -2,7 +2,14 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Features include Data Fetching, Clean UI, Search Functionality,
+Responsive Design, Debounced Search Output, Page pagination, Aria labels
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+To run the project:
+git clone https://github.com/AdedoyinKups/user-dashboard-jsonplaceholder,
+npm install, npm run dev 
+
+Serverside rendering, improved theming for better user interface, option to export data, highlighting the search result are great improvements i'd like to implement if given more time.
+
+Link to view the live demo https://user-dashboard-jsonplaceholder.vercel.app
